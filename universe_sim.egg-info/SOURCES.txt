@@ -1,0 +1,6 @@
+setup.py
+universe_sim.egg-info/PKG-INFO
+universe_sim.egg-info/SOURCES.txt
+universe_sim.egg-info/dependency_links.txt
+universe_sim.egg-info/requires.txt
+universe_sim.egg-info/top_level.txt

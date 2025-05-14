@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: universe-sim
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Dynamic: requires-dist
